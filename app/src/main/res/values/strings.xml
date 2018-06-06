@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Aswan Egyptian Tourism Center</string>
+    <!--top sights-->
+    <!--first item in sights-->
+    <string name="kom_ambo_name">Temple of Kom Ombo</string>
+    <string name="kom_ambo_describtion">Riverside Ptolemaic-era temple, known for its unique double structure &amp; mummified sacred crocodiles.</string>
+    <!--second one-->
+    <string name="nubian_museum_name">Nubian Museum</string>
+    <string name="nubian_museum_describtion">The Nubian Museum is an archaeological museum located in Aswan, Upper Egypt. It was built to a design by architect Mahmoud El-Hakim for an estimated construction cost of LE 75 million.
+    </string>
+    <!--third -->
+    <string name="monastery_simeon_name">Monastery of St Simeon</string>
+    <string name="monastery_simeon_desc">To get there, take a private boat across the Nile then walk up the (mostly paved) desert track, or hire a camel to take you up ^_-</string>
+    <!--5-->
+    <string name="sehel_island_name">Sehel Island</string>
+    <string name="sehel_island_desc">The island was known in ancient tiles as Setet,[2] and there are many archaeological sites, including sacred places, such as the temple of Anuket, the Egyptian water goddess, and goddess of the Nile\'s cataracts.</string>
+    <!--fourth-->
+    <string name="philae_name">Philae Temple</string>
+    <string name="philae_desc">One of Nubia\'s most important monument sites, the Temples of Philae, 12 kilometers south of Aswan, was an ancient pilgrimage center for the cult of Isis and dazzled travelers with its power for centuries.</string>
+    <!--sixth-->
+    <string name="elephantine_name">Elephantine Island</string>
+    <string name="elephantine_name_desc">The island’s unusual name has nothing to do with the presence of any large land mammals anywhere on it. Instead it is thought to come from the large gray granite boulders at its southern end that some think to look like a group of elephants standing in the water.</string>
+    <!--seventh--><!--******************************** REMOOOOOOOOOOOOOOOVE-->
+    <string name="agilkia_island_name">Agilkia Island</string>
+    <string name="agilkia_island_desc">Agilkia Island is an island in the reservoir of the Old Aswan Dam along the Nile River in southern Egypt; it is the present site of the relocated Ancient Egyptian temple complex of Philae.</string>
+    <!--eighth-->
+    <string name="el_nabatat_island_name">El Nabatat Island</string>
+    <string name="el_nabatat_island_desc">El Nabatat Island or Kitchener\'s Island, is a small, oval-shaped island in the Nile at Aswan, Egypt. It is less than a kilometer long and its width is less than ½ a kilometer. The Aswan Botanical Garden is located on the island.</string>
+    <!--ninth -->
+    <string name="mausoleum_of_aga_khan_name">Mausoleum of Aga Khan</string>
+    <string name="mausoleum_of_aga_khan_desc">The Mausoleum of Aga Khan is the mausoleum of Aga Khan III, Sir Sultan Muhammed Shah, who died in 1957. The mausoleum is located at Aswan, along the Nile of Egypt, since Egypt was formerly the centre of power of the Fatimids.</string>
+    <!--10-->
+    <string name="trajan_kiosk_name">Trajan\'s Kiosk</string>
+    <string name="trajan_kiosk_desc">Trajan\'s Kiosk is a hypaethral temple located on Agilkia Island. One of the largest Ancient Egyptian monuments standing today, it was constructed by the Roman Emperor, Trajan.</string>
+
+
+    <!--finish of top sights-->
+
+    <!--menu items-->
+    <string name="get_sight_location">Get the location on map</string>
+    <!--<string name="get_hotel_location">Get hotel on map</string>-->
+    <!--<string name="get_restaurant_location">Get restaurant on map</string>-->
+    <string name="search_google">Get more photos</string>
+    <string name="get_detailedInfo">Get detailed info</string>
+
+    <!--phrases-->
+    <string name="default_what_name">What is your name?</string>
+    <string name="ara_what_name">ما اسمك؟</string>
+    <string name="default_some_speakEngl">Does anyone here speak English?</string>
+    <string name="ara_some_speakEngl">هل يوجد احد هنا يتحدث اللغة الانجليزية؟</string>
+    <string name="default_littleArabic">I only speak a little Arabic. </string>
+    <string name="ara_littleArabic">أنا أتحدث القليل من العربية</string>
+     <string name="default_how_you">How are you? </string>
+    <string name="ara_how_you">كيف حالك؟</string>
+    <string name="default_i_am_good">I\'m fine, thank you. </string>
+    <string name="ara_i_am_good"> أنا بخير، شكرا.</string>
+    <string name="default_what_said">What did you say? </string>
+    <string name="ara_what_said">ماذا قلت؟</string>
+    <string name="default_sppeak_slowley">Can you speak more slowly? </string>
+    <string name="ara_sppeak_slowley">هل يمكنك التحدث ببطء؟</string>
+    <string name="default_my_name">My name is Hasan.</string>
+    <string name="ara_my_name">أنا اسمي حسن.</string>
+    <string name="default_canot_understand">I don\'t understand.</string>
+    <string name="ara_canot_understand">أنا لا افهمك!</string>
+    <string name="default_can_understand">I understand perfectly.</string>
+    <string name="ara_can_understand">أناأفهمك تماما.</string>
+
+    <!--hotels-->
+    <!--1-->
+    <string name="hotel1">Pyramisa Isis Island Resort Aswan</string>
+    <string name="hotel1desc">An exotic resort on an island in the middle of the Nile positioned near the center of Aswan. Over 28 acres of landscaped gardens with magnificent views of the Nile, mountains and Pharaonic relics. Pyramisa Isis Resort is a few minutes sailing to Agha Khan Mausoleum and downtown shopping area.</string>
+    <!--2-->
+    <string name="hotel2">Hotel Isis Corniche</string>
+    <string name="hotel2desc">Pyramisa Isis Corniche Aswan Resort is located on the Nile Corniche, just 5 minutes’ drive from the centre of Aswan. All rooms have a garden view. Free Wi-Fi is available in the public areas around the lobby.</string>
+    <!--3-->
+    <string name="hotel3">Keylany Hotel</string>
+    <string name="hotel3desc">This great little hotel used to come at budget prices, The roof terrace doesn\'t have Nile views, but there is a burlap sunshade and furniture made from palm fronds, and it is a great place to hang out.</string>
+    <!--4-->
+    <string name="hotel4">Nuba Nile</string>
+    <string name="hotel4desc">Simple lodging offering down-to-earth rooms, plus casual dining, an outdoor pool &amp; a rooftop garden.</string>
+    <!--5-->
+    <string name="hotel5">Happi Hotel</string>
+    <string name="hotel5desc">Happi Hotel ✅ Providing free WiFi, Happi Hotel is located in Aswan, within 600 metres of El-Tabia Mosque.</string>
+    <!--6-->
+    <string name="hotel6">Basma hotel</string>
+    <string name="hotel6desc">Upmarket hotel with traditional dining &amp; entertainment, plus an outdoor pool &amp; meeting rooms.</string>
+    <!--7-->
+    <string name="hotel7">BABA DOOl</string>
+    <string name="hotel7desc">One of our bestsellers in Aswan! Set in Aswan, 0.6 miles from El-Tabia Mosque, Baba Dool has rooms with free WiFi access. Popular points of interest nearby include Aswan Christian Cathedral, Ferry Company and Tourist info (Pamphlets &amp; convoy times).</string>    <!--7-->
+    <!--8-->
+    <string name="hotel8">Helnan Hotel</string>
+    <string name="hotel8desc">Helnan International Hotels has become one of the most respectable names in the lodging industry. Having different nationalities in the management team has enabled the group to gain a deep understanding of various cultures as well as international customs and traditions.</string>
+    <!--9-->
+    <string name="hotel9">Citymax Hotel Aswan</string>
+    <string name="hotel9desc">Bright rooms in a relaxed hotel with a private beach area, river views &amp; an outdoor pool.</string>
+    <!--10-->
+    <string name="hotel10">Mövenpick Resort Aswan</string>
+    <string name="hotel10desc">Modern, Egyptian-themed rooms &amp; suites in a resort hotel with multiple dining options &amp; a pool.</string>
+
+    <!--list of restaurants-->
+    <!--1-->
+    <string name="rest1">El Dokka</string>
+    <string name="rest1desk">What’s special about the El Dokka is its unforgettable location. Situated literally in the middle of the Nile river on Elephantine Island, the restaurant has free ferry rides fetching its guests to and from the main island!</string>
+    <string name="rest1link">https://www.tripadvisor.com/Restaurant_Review-g294204-d1309045-Reviews-El_Dokka-Aswan_Aswan_Governorate_Nile_River_Valley.html</string>
+    <string name="aswanName">ASWAN</string>
+    <string name="aswanDesk">If you\'re looking to escape the cold and go for a warm sunny place in winter plus enjoy some sightseeing and learn about a new culture. It\'s Aswan.</string>
+    <string name="booking_trip">Book a trip to </string>
+    <string name="first_name">First Name</string>
+    <string name="last_name" >Last Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="vacation_duration">How Many Days you wanna your vacation</string>
+    <string name="number_vistors">Number of Visitors</string>
+    <string name="at">at </string>
+    <string name="hotel"> hotel</string>
+    <string name="book">Book</string>
+    <string name="choseCountry">Choose Country</string>
+    <string name="gender">Choose Gender</string>
+
+    <!-- Label for dropdown menu option if the pet is male [CHAR LIMIT=20] -->
+    <string name="gender_male">Male</string>
+
+    <!-- Label for dropdown menu option if the pet is female [CHAR LIMIT=20] -->
+    <string name="gender_female">Female</string>
+
+</resources>

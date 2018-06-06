@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E65100</color>
+    <color name="colorPrimaryDark">#EF6C00</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_background">#F57F17</color><!---->
+    <color name="item">#80F9A825</color><!--80 made it opesity (transparent)-->
+    <color name="name_text">#000000</color>
+    <color name="desc_text">#3E2723</color>
+    <color name="phrases_main">#FF6F00</color>
+    <color name="phrases_item">#FF8F00</color>
+    <color name="mainCardBackgroumd">#673AB7</color>
+    <color name="cardContainerBackground">#512DA8</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="design_textinput_error_color">#FFDD2C00</color>
+
+</resources>

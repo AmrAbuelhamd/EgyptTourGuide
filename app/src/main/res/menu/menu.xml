@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--TODO put icon inside each item -->
+    <item
+        android:id="@+id/get_location_menuItem"
+        android:icon="@drawable/ic_place_black_24dp"
+        android:title="@string/get_sight_location"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/search_morePhotos"
+        android:title="@string/search_google" />
+
+    <item
+        android:id="@+id/getMoreInfoMenueItem"
+        android:title="@string/get_detailedInfo" />
+</menu>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
+    android:paddingBottom="16dp"
+    android:id="@+id/item_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/item"
+    >
+
+    <ImageView
+        android:id="@+id/sight_image"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/sight_name"
+        android:textColor="@color/name_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="16dp"
+        android:textSize="16sp"
+        tools:text="TextView"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        app:layout_constraintStart_toStartOf="@+id/sight_image"
+        app:layout_constraintTop_toBottomOf="@+id/sight_image" />
+
+    <TextView
+        android:id="@+id/sight_breief_describtion"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:textAlignment="textStart"
+        android:textAllCaps="true"
+        android:textColor="@color/desc_text"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="@+id/sight_name"
+        app:layout_constraintTop_toBottomOf="@+id/sight_name"
+        tools:text="TextView" />
+
+</android.support.constraint.ConstraintLayout>
